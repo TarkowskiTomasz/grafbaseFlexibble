@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"name": "next-ap",
+		"path": "../.."
+	},
+	{
+		"name": "public",
+		"path": "../../../public"
+	}
+],
+  "settings": {
+  }
+}
